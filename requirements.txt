@@ -1,0 +1,15 @@
+Django==4.2
+djangorestframework==3.14
+channels[daphne]==4.0
+channels-redis==4.1
+aiocoap==0.4b3
+msgpack==1.0.5
+psycopg2-binary==2.9.9
+celery==5.3.1
+redis==5.0.0
+gunicorn==20.1.0
+PyYAML==6.0
+influxdb-client==1.42.0
+odoo-client
+influxdb-client 
+paho-mqtt
